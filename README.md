@@ -45,7 +45,7 @@ void loop() {
 
 ### Create an Arduino sketch and program the device
 * IMPORTANT: make sure the inner switch in the DFROBOT RS485 is set to "MANU" and the outermost switch is set to "off".
-* Connect lightbar's blue wire to DFROBOT's "A" and "B" terminal respectively.
+* Connect lightbar's blue and gray wire to DFROBOT's "A" and "B" terminal respectively.
 * Plug the TFT into the DFROBOT shield, then the DFROBOT into the Arduino.
 * copy/paste the Arduino9U.ino file (found at this site) into your sketch
 * Compile and run the sketch
